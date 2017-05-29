@@ -9450,10 +9450,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\serverless-samples\\GiphySearchService\\GiphySearchService\\GiphySearchService.csproj",
+      "projectUniqueName": "D:\\GitHub\\aws_lambda_samples\\GiphySearchService\\GiphySearchService\\GiphySearchService.csproj",
       "projectName": "GiphySearchService",
-      "projectPath": "D:\\GitHub\\serverless-samples\\GiphySearchService\\GiphySearchService\\GiphySearchService.csproj",
-      "outputPath": "D:\\GitHub\\serverless-samples\\GiphySearchService\\GiphySearchService\\obj\\",
+      "projectPath": "D:\\GitHub\\aws_lambda_samples\\GiphySearchService\\GiphySearchService\\GiphySearchService.csproj",
+      "outputPath": "D:\\GitHub\\aws_lambda_samples\\GiphySearchService\\GiphySearchService\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.0"
@@ -9510,7 +9510,7 @@
           },
           "Amazon.Lambda.Serialization.Json": {
             "target": "Package",
-            "version": "[1.0.0, )"
+            "version": "1.0.0"
           },
           "Microsoft.Extensions.Logging": {
             "target": "Package",

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaImageCompressor", "LambdaImageCompressor\LambdaImageCompressor.csproj", "{67D62CAE-8DEE-47D2-B810-D209DD2542BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GiphySearchService", "GiphySearchService.csproj", "{A0C3B42B-51B2-46ED-B1A5-D28B47852CE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{67D62CAE-8DEE-47D2-B810-D209DD2542BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{67D62CAE-8DEE-47D2-B810-D209DD2542BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{67D62CAE-8DEE-47D2-B810-D209DD2542BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{67D62CAE-8DEE-47D2-B810-D209DD2542BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0C3B42B-51B2-46ED-B1A5-D28B47852CE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0C3B42B-51B2-46ED-B1A5-D28B47852CE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0C3B42B-51B2-46ED-B1A5-D28B47852CE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0C3B42B-51B2-46ED-B1A5-D28B47852CE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

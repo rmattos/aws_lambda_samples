@@ -7155,10 +7155,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\serverless-samples\\LambdaImageCompressor\\LambdaImageCompressor\\LambdaImageCompressor.csproj",
+      "projectUniqueName": "D:\\GitHub\\aws_lambda_samples\\LambdaImageCompressor\\LambdaImageCompressor\\LambdaImageCompressor.csproj",
       "projectName": "LambdaImageCompressor",
-      "projectPath": "D:\\GitHub\\serverless-samples\\LambdaImageCompressor\\LambdaImageCompressor\\LambdaImageCompressor.csproj",
-      "outputPath": "D:\\GitHub\\serverless-samples\\LambdaImageCompressor\\LambdaImageCompressor\\obj\\",
+      "projectPath": "D:\\GitHub\\aws_lambda_samples\\LambdaImageCompressor\\LambdaImageCompressor\\LambdaImageCompressor.csproj",
+      "outputPath": "D:\\GitHub\\aws_lambda_samples\\LambdaImageCompressor\\LambdaImageCompressor\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.0"

@@ -1,7 +1,0 @@
-D:\GitHub\serverless-samples\LambdaImageCompressor\LambdaImageCompressor\bin\Debug\netcoreapp1.1\LambdaImageCompressor.deps.json
-D:\GitHub\serverless-samples\LambdaImageCompressor\LambdaImageCompressor\bin\Debug\netcoreapp1.1\LambdaImageCompressor.dll
-D:\GitHub\serverless-samples\LambdaImageCompressor\LambdaImageCompressor\bin\Debug\netcoreapp1.1\LambdaImageCompressor.pdb
-D:\GitHub\serverless-samples\LambdaImageCompressor\LambdaImageCompressor\obj\Debug\netcoreapp1.1\LambdaImageCompressor.csprojResolveAssemblyReference.cache
-D:\GitHub\serverless-samples\LambdaImageCompressor\LambdaImageCompressor\obj\Debug\netcoreapp1.1\LambdaImageCompressor.AssemblyInfo.cs
-D:\GitHub\serverless-samples\LambdaImageCompressor\LambdaImageCompressor\obj\Debug\netcoreapp1.1\LambdaImageCompressor.dll
-D:\GitHub\serverless-samples\LambdaImageCompressor\LambdaImageCompressor\obj\Debug\netcoreapp1.1\LambdaImageCompressor.pdb

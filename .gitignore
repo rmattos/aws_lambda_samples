@@ -2,6 +2,8 @@
 [Bb]in/
 [Oo]bj/
 packages/
+bin/
+obj/
 
 # mstest test results
 TestResults
