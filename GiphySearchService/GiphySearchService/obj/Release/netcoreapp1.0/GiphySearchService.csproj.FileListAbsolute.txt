@@ -1,7 +1,0 @@
-D:\GitHub\aws_lambda_samples\GiphySearchService\GiphySearchService\bin\Release\netcoreapp1.0\appsettings.json
-D:\GitHub\aws_lambda_samples\GiphySearchService\GiphySearchService\bin\Release\netcoreapp1.0\GiphySearchService.deps.json
-D:\GitHub\aws_lambda_samples\GiphySearchService\GiphySearchService\bin\Release\netcoreapp1.0\GiphySearchService.dll
-D:\GitHub\aws_lambda_samples\GiphySearchService\GiphySearchService\bin\Release\netcoreapp1.0\GiphySearchService.pdb
-D:\GitHub\aws_lambda_samples\GiphySearchService\GiphySearchService\obj\Release\netcoreapp1.0\GiphySearchService.AssemblyInfo.cs
-D:\GitHub\aws_lambda_samples\GiphySearchService\GiphySearchService\obj\Release\netcoreapp1.0\GiphySearchService.dll
-D:\GitHub\aws_lambda_samples\GiphySearchService\GiphySearchService\obj\Release\netcoreapp1.0\GiphySearchService.pdb
