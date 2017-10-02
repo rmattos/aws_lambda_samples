@@ -4,6 +4,8 @@
 packages/
 bin/
 obj/
+Debug/
+Release/
 
 # mstest test results
 TestResults
@@ -18,3 +20,4 @@ TestResults
 *.log
 *.nupkg
 *.bak
+LambdaImageCompressor/LambdaImageCompressor/.vs/LambdaImageCompressor/v15/sqlite3/storage.ide
